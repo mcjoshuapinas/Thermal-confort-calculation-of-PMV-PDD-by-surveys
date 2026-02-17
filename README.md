@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1160015954.svg)](https://doi.org/10.5281/zenodo.18672562)
+
 Thermal Comfort Study (CERTES)
 This project provides a Python-based workflow to merge subjective thermal comfort survey data with synchronized physical environmental parameters.
 
