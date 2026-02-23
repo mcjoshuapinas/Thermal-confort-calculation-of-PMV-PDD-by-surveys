@@ -1,7 +1,7 @@
 cff-version: 1.0.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Pinas"
+- family-names: "Piñas"
   given-names: "Joshua"
   orcid: "https://orcid.org/0000-0001-7888-8167"
 title: "Thermal comfort calculation of PMV-PPD by surveys"
