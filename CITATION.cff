@@ -1,0 +1,18 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Pinas"
+  given-names: "Joshua"
+  orcid: "https://orcid.org/0000-0001-7888-8167"
+title: "Thermal comfort calculation of PMV-PPD by surveys"
+version: 1.0.0
+doi: 10.5281/zenodo.18672562
+date-released: 2026-02-17
+url: "https://github.com/mcjoshuapinas/Thermal-confort-calculation-of-PMV-PDD-by-surveys"
+keywords:
+  - Thermal confort
+  - PMV
+  - PDD
+  - ISO 7730
+  - surveys
+license: MIT
