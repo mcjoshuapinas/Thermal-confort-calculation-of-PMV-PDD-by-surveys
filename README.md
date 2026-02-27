@@ -25,3 +25,5 @@ data/: Folder containing raw CSV files (Surveys and Physical Parameters).
 output/: Folder where processed datasets and comfort results are saved.
 
 main_script.py: The primary Python script for the analysis.
+
+@software{pinas_pmv_pdd_surveys_2026, author = {Piñas, Joshua}, title = {Thermal confort calculation of PMV PDD by surveys}, year = 2026, publisher = {GitHub}, doi = {[https://doi.org/10.5281/zenodo.18803256](https://doi.org/10.5281/zenodo.18672562)}, url = {[https://github.com/mcjoshuapinas/Thermal-confort-calculation-of-PMV-PDD-by-surveys]} }
